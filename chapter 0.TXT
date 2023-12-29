@@ -1,0 +1,5 @@
+第零节是系统环境的安装和配置
+
+1、我采用的是Vscode+VMware+Remote SSH的连接方式，在学习中也会加上chatgpt来辅助概念了解。
+2、辅助的课程是南京大学蒋炎岩老师的操作系统，教材参考的是《Operating Systems: Three Easy Pieces》
+
